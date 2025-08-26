@@ -1,7 +1,6 @@
 # 🕒 Timestamp Converter
 
-Easily convert UTC timestamps into **your local timezone** (with
-Cairo/Egypt shown as an example) and log the outputs automatically.
+Easily convert UTC timestamps into **your local timezone** and log the outputs automatically.
 
 ------------------------------------------------------------------------
 
