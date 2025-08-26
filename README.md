@@ -67,8 +67,7 @@ timestamp will be used.
 
 ## 📂 Logs
 
-Every run is saved into a **logs/** folder with a unique file name
-(e.g., `logs/20250823-abc123.log`).\
+Every run is appended to a single log file (`logs/history.log`) which automatically rotates when it reaches 50KB.\
 This helps you keep history clean and organized.
 
 ------------------------------------------------------------------------
